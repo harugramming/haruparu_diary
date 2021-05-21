@@ -1,7 +1,3 @@
-<html>
-<body>
 <?php
-	echo('test php');
-?>
-</body>
-</html>
+	require("./php/views/_htmlhead.php");
+  require("./php/views/_header.php");
